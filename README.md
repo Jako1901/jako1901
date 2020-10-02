@@ -1,6 +1,6 @@
 ### Analysis of Euro Cup
 
-In this porject I analysed data about Euro Cup
+In this porject I analysed data about Euro Cup.
 The dataset taken from https://www.kaggle.com/mohammedessam97/uefa-euro-championship?select=Uefa+Euro+Cup+All+Matches.csv
 <!--
 **Jako1901/jako1901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
